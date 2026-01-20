@@ -90,4 +90,19 @@ IoT개발자 과정 사전학습 리포지토리
   2. [픽픽](https://picpick.net/)
 
 - **파이썬** 개발환경 설정
-  1. 
+  1. https://www.python.org/에서 `Download 3.14.2` 버튼 클릭
+  2. Add python.exe to PATH 체크 활성화 후
+  3. Installer > Customize installation 클릭
+  4. Documentation 체크 해제, for all users 체크 활성화 다음
+  5. Advanced options 에서 install python 3.1x for all users 체크
+  6. 경로변경후 설치 **C:\DEV\LANG`\Python314`** 꼭 적고 저장할 것.
+     <img width="649" height="408" alt="image" src="https://github.com/user-attachments/assets/9fd79fde-e8ea-46cb-baba-519092a4c1cf" />
+      
+  7. Setup was seccessful 에서 `Disable path length limit` 클릭 (필수)
+     <img width="655" height="410" alt="image" src="https://github.com/user-attachments/assets/b560aa1c-437e-45f6-adb0-77f9f4a760c1" />
+
+  8. cmd 또는 powershell 오픈, `python --version` 확인
+ 
+  9. VS code 에서 Extensions(확장)에서 Python을 검색 후 설치 
+
+-프로그램 개발 개발개념
