@@ -104,5 +104,6 @@ IoT개발자 과정 사전학습 리포지토리
   8. cmd 또는 powershell 오픈, `python --version` 확인
  
   9. VS code 에서 Extensions(확장)에서 Python을 검색 후 설치 
+  10. VS code 재오픈 폴더 생성
 
 -프로그램 개발 개발개념
