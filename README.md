@@ -107,3 +107,24 @@ IoT개발자 과정 사전학습 리포지토리
   10. VS code 재오픈 폴더 생성
 
 -프로그램 개발 개발개념
+
+## 3일차
+- 파이썬
+   - 함수 및 모듈
+      - [함수](./day03/functions.py) 확인
+      - [모듈](./day03/modules.py) 확인
+      
+# functions.py
+# def 함수명([파라미터=매개변수=아규먼트]):
+#  함수내코드
+
+# 함수사용
+print()
+print('hello pythin')
+print(str(10))
+
+# 함수정의
+def sayhello():
+   -개념
+      - 컴퓨터는 모든 것이 값
+      - 엔터('\')값, 공백(32)도 값, "", None(미정) = Null
